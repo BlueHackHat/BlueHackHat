@@ -11,6 +11,5 @@
 
 About Me
 
-I'm 13 years old and from Earth. I'm a JavaScript, JQuery, C#, C++, C, CSS, MySQL, SQL, PHP, Java, Lua, Python, and HTML5 developer. I know 12 programming languages and I'm still learning most other programming languages. I am the founder of Blue Maker, Blue Maker is an organization that is a freelance programming service.
-
+I'm 13 years old and from Earth. I'm a JavaScript, JQuery, C#, C++, C, CSS, MySQL, SQL, PHP, Java, Lua, Python, and HTML5 developer. I know 12 programming languages and I'm still learning most other programming languages.
 -Blue hat
